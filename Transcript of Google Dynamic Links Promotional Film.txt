@@ -6,10 +6,11 @@ https://www.youtube.com/watch?time_continue=184&v=LvY1JMcrPF8
 2016年5月18日发布 啊……
 
 This version, (youtube-dl-ed the video, used A-B repeat of VLC media player. TODO global A-B repeat shortcut)
-2018-03-31 17:56:56 S
-2018-03-31 18:36:55 E
+2018-03-31 18:36:55 S
+2018-03-31 18:41:44 E
 
-Consider the simple URL. A few years ago, these were pretty straightforward. You click on one and, nine times at a ten, you went to an webpage. Then things changed. People started t o use their mobile devices for, well, everything. And these devices in turn started to support the idea of Deeplinks. 
+Consider the simple URL. A few years ago, these were pretty straightforward. You click on one and, nine times at a ten, you went to an webpage. 
+Then things changed. People started to use their mobile devices for, well, everything. And these devices in turn started to support the idea of Deeplinks. 
 Click on one of these Deeplinks and it could take you not just anywhere on the web, but anywhere in an app as well. 
 So you could use a deeplink to point directly to a specific restaurant inside a reservation app, or give your new customers a personalized welcome based on the link that brought to your app in the first place.
 At least that's how they work in theory. In practice deeplinking had issues.
@@ -28,5 +29,5 @@ You can also give your users a customized first-time experience based on the com
 Dynamic links are great for sharing, too. Your users can use them to share recipes, links to their favorite level in your game, or even coopon codes.
 In fact Dynamic Links are the technology that powers Firebase Invites. And because Dynamic Links are Firebase product, you can see their status directly through the Firebase console. 
 Find out how many people clicked on a link, or use Firebase analytics to find out which attribute users first opened your apps through a particualr link. 
-To find out more about Dynamic Links, checkout the documentation here, and give it a try! And deeplink away!
+To find out more about Dynamic Links, checkout the documentation here, and give'em a try! And deeplink away!
 
