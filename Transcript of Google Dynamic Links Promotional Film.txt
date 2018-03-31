@@ -1,0 +1,28 @@
+Transcript of Google Dynamic Links Promotional Film
+
+https://firebase.google.com/products/dynamic-links/
+
+https://www.youtube.com/watch?time_continue=184&v=LvY1JMcrPF8
+2016年5月18日发布 啊……
+
+This version, 
+2018-03-31 17:06:24 S
+2018-03-31 17:40:08 E
+
+Consider the simple URL. A few years ago, these were pretty straightforward. Click on one and, nine times of ten, you went to an webpage. Then things changed. People use their mobile devices for, well, everything. And these devices in turn support the idea of Deeplinks. Click on the Deeplink directs you to not only the web, but the app as well. So you can use deeplink to link to specific restaurant in the reservation app, or give your customer _ first eye _ that brought to your app in the first place. At least this works in theory. In practice deeplinking had issues. The same URL wouldn't necesarrily work on iOS and Android devices, and they behave very differently for users who didn't have your app installed. And for people who did installed your app through deeplink, the _ information get lost in the installation process, leaving your welcome _ code (cold?).
+So while deeplink works well in theory, they _ a little _ in practice.
+And here, Firebase Dynamic Links.
+Firebase Dynamic Links are Deeplinks working in the way you want them to.
+You can create a link behaving one on Android, one on iOS devices, and one on desktop browsers.
+It will take you to the place that's approprate for that platform.
+You can also set dynamic links the behavior depending on whether the user has your app installed.
+For users who haven't installed your app, maybe you send them to a web page, maybe you send them to the PlayStore, or maybe you show them a _ profit _ before you send them to the PlayStore, _ first transition. 
+More importantly these links can survive the installation process. _, all the information is reserved available when your user open the app for the first time.
+So what does these mean? It means you can use dynamic links the way you used deeplinks.
+You can use it in market compaingns, from email, to social media, to _ banner, or even hack the QR code.
+And in addition to install attribution ? tracking, you know the kind _ which give you the highest quality users. You can also give your users a customized first screen based on the compaingn that brought them there.
+So if a user installed your music app through _ classical music, you can directly show them Ban_ when the app shows up.
+Dynamic links are great for sharing, too.
+Your users can use it to share a recipe, their favorite level of a game, or even coopon code.
+In fact Dynamic Links are the technology that powers Firebase Invites. And because Dynamic Links are Firebase product, you can see _ status through Firebase console. Find out how many times your links are clicked, or use the _ statistics to analyse which attribute of users open your app for the first time through a particualr link. To know more about Dynamic Links, checkout the documentation here, and give it a try! And deeplink away!
+
