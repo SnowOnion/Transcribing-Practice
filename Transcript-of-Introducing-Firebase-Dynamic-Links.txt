@@ -1,11 +1,11 @@
-Transcript of Google Dynamic Links Promotional Film
+Transcript of Google Dynamic Links Promotional Film, "Introducing Firebase Dynamic Links"
 
 https://firebase.google.com/products/dynamic-links/
 
 https://www.youtube.com/watch?time_continue=184&v=LvY1JMcrPF8
 2016年5月18日发布 啊……
 
-This version, (youtube-dl-ed the video, used A-B repeat of VLC media player. TODO global A-B repeat shortcut)
+This version, (corrected according to Youtube STT subtitle)
 2018-03-31 18:41:44 S
 2018-03-31 18:56:39 E
 
